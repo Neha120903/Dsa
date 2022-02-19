@@ -1,3 +1,4 @@
+//Naive approach
 package Array;
 import java.util.*;
 public class Secondlargest {
